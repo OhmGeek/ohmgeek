@@ -1,16 +1,17 @@
 ### Hi there 👋
+I'm Ryan, a DevOps Engineer, based in and around London, UK.
 
-<!--
-**OhmGeek/ohmgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies
 
-Here are some ideas to get you started:
+In my day job, I mostly work with:
+- Java
+- MongoDB
+- Apache Kafka
+- Apache ZooKeeper
+- gRPC / Armeria framework
+- Google Cloud Platform (GCE, GCS, Cloud Operations, GKE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of my day job, I dabble in all things tech, including:
+- Exploring retro computing / computer history
+- Attempts at learning Rust/Golang/other languages
+- Other silly ideas that I end up getting an urge to build (see VM-OS)
